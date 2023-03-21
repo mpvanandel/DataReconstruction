@@ -3,6 +3,6 @@ For the course Deep Learning: reconstruction of a paper performing data reconstr
 
 The github repo's that are compared in the paper:
 
-[link](https://github.com/mit-han-lab/dlg)
+[Deep leakage from gradients](https://github.com/mit-han-lab/dlg)
 
-[link](https://github.com/JonasGeiping/invertinggradientsz)
+[Inverting gradients](https://github.com/JonasGeiping/invertinggradientsz)

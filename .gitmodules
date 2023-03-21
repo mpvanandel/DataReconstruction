@@ -1,0 +1,6 @@
+[submodule "dlg"]
+	path = dlg
+	url = https://github.com/mit-han-lab/dlg
+[submodule "invertinggradients"]
+	path = invertinggradients
+	url = https://github.com/JonasGeiping/invertinggradients
